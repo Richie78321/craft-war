@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Drop/pickupSound.wav</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/GUI/Button/buttonClickSound.wav</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/GUI/Button/buttonHoverSound.wav</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/GUI/Button/buttonTexture0.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/GUI/Button/buttonTexture1.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/GUI/Craft/craftSound.wav</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/GUI/Inventory/durabilityTexture.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/GUI/Inventory/inventoryFont.spritefont</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/GUI/Inventory/inventorySquare.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/GUI/GUIFont.spritefont</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Item/ingotTexture.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Item/pickaxeTexture.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Player/P1/alienGreen_duck.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Player/P1/alienGreen_jump.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Player/P1/alienGreen_stand.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Player/P1/alienGreen_walk0.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Player/P1/alienGreen_walk1.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Player/p1_stand.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Break Overlay/breakOverlay0.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Break Overlay/breakOverlay1.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Break Overlay/breakOverlay2.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Break Overlay/breakOverlay3.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Break Overlay/breakOverlay4.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Break Overlay/breakOverlay5.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Break Overlay/breakOverlay6.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Ore/coalTexture.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Ore/copperTexture.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Ore/diamondTexture.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Ore/goldTexture.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Terrain/stoneTile.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/borderTile.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Terrain/dirtTile.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Terrain/grassTile.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Terrain/grassTileSurface.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Terrain/topDirtTile.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Terrain/topDirtTileSurface.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Ore/ironTexture.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Background/bkgr_mf_clouds.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Background/bkgr_mf_hills.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Background/bkgr_mf_mountains.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Background/bkgr_mf_sky.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Texture/Bullet/flyingBulletTexture.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/woodTile.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Lighting/torchTileTexture0.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Lighting/torchTileTexture1.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Lighting/torchTileTexture2.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Lighting/torchTileTexture3.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Surface Tile/dirtSurfaceRight.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Surface Tile/dirtSurfaceBottom.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Surface Tile/dirtSurfaceLeft.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Surface Tile/stoneSurfaceTop.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Surface Tile/stoneSurfaceRight.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Surface Tile/stoneSurfaceBottom.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Surface Tile/stoneSurfaceLeft.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Object/woodDoorClosed.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Object/woodDoorOpen.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/leavesTile.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/logTile0.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/logTile1.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/Tree Extras/branchLeft.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/Tree Extras/branchRight.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/Tree Extras/leavesBottom.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/Tree Extras/leavesLeft.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/Tree Extras/leavesRight.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/Tree Extras/leavesTop.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/Tree Extras/logLeft.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/Tree Extras/logRight.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/Tree Extras/treeRootLeft.png</File>
+    <File>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/Tile/Wood/Tree Extras/treeRootRight.png</File>
+  </SourceFiles>
+</SourceFileCollection>

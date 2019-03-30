@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/GUI/Inventory/inventoryFont.spritefont</SourceFile>
+  <SourceTime>2017-08-17T16:50:36.7855335-04:00</SourceTime>
+  <DestFile>C:/Users/rgoul/Documents/Visual Studio 2017/Projects/CraftWar/CraftWar/Content/bin/Windows/GUI/Inventory/inventoryFont.xnb</DestFile>
+  <DestTime>2017-08-30T12:48:59.3328684-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

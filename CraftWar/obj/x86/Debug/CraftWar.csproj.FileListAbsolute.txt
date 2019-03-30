@@ -1,0 +1,103 @@
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\obj\x86\Debug\CraftWar.LaunchWindow.resources
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\obj\x86\Debug\CraftWar.csproj.GenerateResource.Cache
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Drop\pickupSound.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\GUI\GUIFont.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\GUI\Button\buttonClickSound.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\GUI\Button\buttonHoverSound.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\GUI\Button\buttonTexture0.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\GUI\Button\buttonTexture1.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\GUI\Craft\craftSound.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\GUI\Inventory\durabilityTexture.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\GUI\Inventory\inventoryFont.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\GUI\Inventory\inventorySquare.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Item\ingotTexture.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Item\pickaxeTexture.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Player\p1_stand.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Player\P1\alienGreen_duck.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Player\P1\alienGreen_jump.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Player\P1\alienGreen_stand.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Player\P1\alienGreen_walk0.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Player\P1\alienGreen_walk1.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\borderTile.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Break Overlay\breakOverlay0.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Break Overlay\breakOverlay1.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Break Overlay\breakOverlay2.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Break Overlay\breakOverlay3.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Break Overlay\breakOverlay4.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Break Overlay\breakOverlay5.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Break Overlay\breakOverlay6.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Ore\coalTexture.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Ore\copperTexture.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Ore\diamondTexture.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Ore\goldTexture.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Ore\ironTexture.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Terrain\dirtTile.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Terrain\grassTile.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Terrain\stoneTile.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\leavesTile.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\woodTile.xnb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\CraftWar.exe
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\CraftWar.pdb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\obj\x86\Debug\CraftWar.exe
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\obj\x86\Debug\CraftWar.pdb
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\CraftWar.exe.manifest
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\CraftWar.application
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\obj\x86\Debug\CraftWar.exe.manifest
+c:\users\rgoul\documents\visual studio 2017\Projects\CraftWar\CraftWar\obj\x86\Debug\CraftWar.application
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Terrain\grassTileSurface.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Terrain\topDirtTile.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Terrain\topDirtTileSurface.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Background\bkgr_mf_clouds.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Background\bkgr_mf_hills.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Background\bkgr_mf_mountains.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Background\bkgr_mf_sky.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Texture\Bullet\flyingBulletTexture.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Lighting\torchTileTexture0.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Lighting\torchTileTexture1.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Lighting\torchTileTexture2.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Lighting\torchTileTexture3.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\obj\x86\Debug\CraftWar.LoadingScreen.resources
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Surface Tile\dirtSurfaceRight.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Surface Tile\dirtSurfaceBottom.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Surface Tile\dirtSurfaceLeft.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Surface Tile\stoneSurfaceBottom.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Surface Tile\stoneSurfaceLeft.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Surface Tile\stoneSurfaceRight.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Surface Tile\stoneSurfaceTop.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Object\woodDoorClosed.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Object\woodDoorOpen.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\logTile0.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\logTile1.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\Tree Extras\branchLeft.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\Tree Extras\branchRight.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\Tree Extras\leavesBottom.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\Tree Extras\leavesLeft.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\Tree Extras\leavesRight.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\Tree Extras\leavesTop.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\Tree Extras\logLeft.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\Tree Extras\logRight.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\Tree Extras\treeRootLeft.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\bin\Windows\x86\Debug\Content\Tile\Wood\Tree Extras\treeRootRight.xnb
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\obj\x86\Debug\CraftWar.csproj.CoreCompileInputs.cache
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\obj\x86\Debug\CraftWar.csproj.CopyComplete
+C:\Users\rgoul\Documents\Visual Studio 2017\Projects\CraftWar\CraftWar\obj\x86\Debug\CraftWar.csprojAssemblyReference.cache
